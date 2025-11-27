@@ -1,0 +1,13 @@
+{
+  "properties": [
+    {
+      "id": 1,
+      "title": "Modern 2 Bedroom Apartment",
+      "location": "Nairobi, Kilimani",
+      "price": 85000,
+      "image": "https://example.com/apartment.jpg",
+      "description": "Spacious apartment near Yaya Centre.",
+      "amenities": ["Swimming Pool", "Backup Generator"]
+    }
+  ]
+}
