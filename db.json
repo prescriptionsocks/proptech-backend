@@ -3,11 +3,28 @@
     {
       "id": 1,
       "title": "Modern 2 Bedroom Apartment",
-      "location": "Nairobi, Kilimani",
+      
+      "propertyType": "rent", 
+      "houseType": "apartment", 
+      
+      "city": "Nairobi",
+      "estate": "Kilimani",
+      
       "price": 85000,
-      "image": "https://example.com/apartment.jpg",
-      "description": "Spacious apartment near Yaya Centre.",
-      "amenities": ["Swimming Pool", "Backup Generator"]
+
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "parking": 1,
+
+      "image": "https://example.com/image.jpg",
+      "images": [
+        "https://example.com/image1.jpg",
+        "https://example.com/image2.jpg"
+      ],
+
+      "description": "Spacious and well-lit apartment near Yaya Centre.",
+
+      "createdAt": "2025-11-28T10:00:00Z"
     }
   ]
 }
