@@ -3,28 +3,192 @@
     {
       "id": 1,
       "title": "Modern 2 Bedroom Apartment",
-      
-      "propertyType": "rent", 
-      "houseType": "apartment", 
-      
+      "propertyType": "rent",
+      "houseType": "apartment",
       "city": "Nairobi",
       "estate": "Kilimani",
-      
       "price": 85000,
-
       "bedrooms": 2,
       "bathrooms": 2,
       "parking": 1,
-
-      "image": "https://example.com/image.jpg",
+      "image": "https://example.com/image1.jpg",
       "images": [
         "https://example.com/image1.jpg",
         "https://example.com/image2.jpg"
       ],
-
       "description": "Spacious and well-lit apartment near Yaya Centre.",
-
       "createdAt": "2025-11-28T10:00:00Z"
+    },
+    {
+      "id": 2,
+      "title": "Cozy 3 Bedroom House",
+      "propertyType": "sale",
+      "houseType": "house",
+      "city": "Nairobi",
+      "estate": "Lavington",
+      "price": 12000000,
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "parking": 2,
+      "image": "https://example.com/image3.jpg",
+      "images": [
+        "https://example.com/image3.jpg",
+        "https://example.com/image4.jpg"
+      ],
+      "description": "Family home with a garden and garage.",
+      "createdAt": "2025-11-28T10:05:00Z"
+    },
+    {
+      "id": 3,
+      "title": "Luxury 4 Bedroom Villa",
+      "propertyType": "sale",
+      "houseType": "villa",
+      "city": "Nairobi",
+      "estate": "Runda",
+      "price": 35000000,
+      "bedrooms": 4,
+      "bathrooms": 4,
+      "parking": 3,
+      "image": "https://example.com/image5.jpg",
+      "images": [
+        "https://example.com/image5.jpg",
+        "https://example.com/image6.jpg"
+      ],
+      "description": "High-end villa with pool and modern finishes.",
+      "createdAt": "2025-11-28T10:10:00Z"
+    },
+    {
+      "id": 4,
+      "title": "1 Bedroom Studio Apartment",
+      "propertyType": "rent",
+      "houseType": "apartment",
+      "city": "Nairobi",
+      "estate": "Westlands",
+      "price": 45000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "parking": 0,
+      "image": "https://example.com/image7.jpg",
+      "images": [
+        "https://example.com/image7.jpg",
+        "https://example.com/image8.jpg"
+      ],
+      "description": "Compact studio perfect for singles or students.",
+      "createdAt": "2025-11-28T10:15:00Z"
+    },
+    {
+      "id": 5,
+      "title": "3 Bedroom Townhouse",
+      "propertyType": "sale",
+      "houseType": "townhouse",
+      "city": "Nairobi",
+      "estate": "Karen",
+      "price": 18000000,
+      "bedrooms": 3,
+      "bathrooms": 3,
+      "parking": 2,
+      "image": "https://example.com/image9.jpg",
+      "images": [
+        "https://example.com/image9.jpg",
+        "https://example.com/image10.jpg"
+      ],
+      "description": "Quiet townhouse in a gated community.",
+      "createdAt": "2025-11-28T10:20:00Z"
+    },
+    {
+      "id": 6,
+      "title": "Modern 2 Bedroom Apartment",
+      "propertyType": "rent",
+      "houseType": "apartment",
+      "city": "Mombasa",
+      "estate": "Nyali",
+      "price": 70000,
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "parking": 1,
+      "image": "https://example.com/image11.jpg",
+      "images": [
+        "https://example.com/image11.jpg",
+        "https://example.com/image12.jpg"
+      ],
+      "description": "Sea-facing apartment near the beach.",
+      "createdAt": "2025-11-28T10:25:00Z"
+    },
+    {
+      "id": 7,
+      "title": "Beachfront 3 Bedroom Villa",
+      "propertyType": "rent",
+      "houseType": "villa",
+      "city": "Mombasa",
+      "estate": "Shanzu",
+      "price": 150000,
+      "bedrooms": 3,
+      "bathrooms": 3,
+      "parking": 2,
+      "image": "https://example.com/image13.jpg",
+      "images": [
+        "https://example.com/image13.jpg",
+        "https://example.com/image14.jpg"
+      ],
+      "description": "Villa with direct access to the beach.",
+      "createdAt": "2025-11-28T10:30:00Z"
+    },
+    {
+      "id": 8,
+      "title": "2 Bedroom Condo",
+      "propertyType": "sale",
+      "houseType": "condo",
+      "city": "Nairobi",
+      "estate": "Upper Hill",
+      "price": 9500000,
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "parking": 1,
+      "image": "https://example.com/image15.jpg",
+      "images": [
+        "https://example.com/image15.jpg",
+        "https://example.com/image16.jpg"
+      ],
+      "description": "Condo with modern amenities and gym.",
+      "createdAt": "2025-11-28T10:35:00Z"
+    },
+    {
+      "id": 9,
+      "title": "4 Bedroom House with Garden",
+      "propertyType": "sale",
+      "houseType": "house",
+      "city": "Nairobi",
+      "estate": "Riverside",
+      "price": 22000000,
+      "bedrooms": 4,
+      "bathrooms": 3,
+      "parking": 2,
+      "image": "https://example.com/image17.jpg",
+      "images": [
+        "https://example.com/image17.jpg",
+        "https://example.com/image18.jpg"
+      ],
+      "description": "Beautiful house with large backyard and balcony.",
+      "createdAt": "2025-11-28T10:40:00Z"
+    },
+    {
+      "id": 10,
+      "title": "1 Bedroom Apartment",
+      "propertyType": "rent",
+      "houseType": "apartment",
+      "city": "Nairobi",
+      "estate": "Hurlingham",
+      "price": 50000,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "parking": 1,
+      "image": "https://example.com/image19.jpg",
+      "images": [
+        "https://example.com/image19.jpg",
+        "https://example.com/image20.jpg"
+      ],
+      "description": "Small apartment near shopping and transport.",
+      "createdAt": "2025-11-28T10:45:00Z"
     }
   ]
 }
